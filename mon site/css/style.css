@@ -1,0 +1,70 @@
+div#content {
+	background-color: #777;
+	
+}div#content div.annance{
+	background-color: purple;
+	width: 150px;
+}
+div#content {
+	background-color: #000000;
+}
+div#content div{
+display:inline-block ;
+width: 48%;
+
+}
+div#content div h1,p, iframe{
+margin: 35px;
+
+
+
+}
+div#content div.leftbox{
+background-color: yellow;
+vertical-align: top;
+}
+div#content div.rightbox{
+background-color: green;
+}
+nav.menu-nav ul li.btn{
+display: inline-block ;
+list-style-type: none ;
+}
+nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px;
+}
+nav.menu-nav ul li.btn:hover a{
+	color: red ;
+	background-color: white;
+	transition: 0.3s all;
+}
+header{
+		background-color: #0000;
+
+	}	
+footer{
+		background-color: red;
+
+	}	
+div.annance img{
+	border-radius: 50%;
+}
+/*p.welcome{
+	color: #ffyyyff ;
+	background-color: blue;		
+padding-left: 200px;
+
+}  
+p.vivacss{
+	color: blue ;}
+	body{
+		background: url("https://www.istockphoto.com/resources/images/IllustrationsLanding/OnHolidayTile1255983326.jpg");
+	h2.headline{
+		font-size: 400px;
+		
+	}
+}
+*/
